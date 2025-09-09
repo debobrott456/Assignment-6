@@ -169,6 +169,7 @@ function filterCards(category) {
 //     div3.appendChild(con3)
   
 // }
+let jiun;
 let total=0
 function addToCart(name, price) {
   const cartContainer = document.getElementById("add-cart");
